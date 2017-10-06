@@ -20,4 +20,3 @@
 [submodule "bmex"]
 	path = bmex
 	url = https://github.com/vbmithr/bmex
-	branch = next
